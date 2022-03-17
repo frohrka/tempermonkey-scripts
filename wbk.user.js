@@ -6,6 +6,8 @@
 // @author       frohrka
 // @match        https://*.wiesbadener-kurier.de/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wiesbadener-kurier.de
+// @updateURL    https://github.com/frohrka/tempermonkey-scripts/raw/main/wbk.user.js
+// @downloadURL  https://github.com/frohrka/tempermonkey-scripts/raw/main/wbk.user.js
 // @grant        none
 // ==/UserScript==
 
